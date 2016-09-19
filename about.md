@@ -4,12 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a fourth-year PhD candidate in the Division of Biomedical and Health Informatics in the School of Medicine at the University of Washington (https://www.bhi.washington.edu/) in Seattle, WA.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I study how technology can help older adults coordinate care and share health information with their care team. My dissertation is exploring the usability, feasibility, and preliminary effectiveness of personal health records with older adults transitioning from the hospital to home health. I plan to graduate in the summer of 2017.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+ Prior to joining the University of Washington in 2013, I was a healthcare consultant with an expertise in clinical quality improvement, systems engineering, and publicly reported quality measures.
+
+I can be found on ResearchGate (https://www.researchgate.net/profile/Laura_Kneale) or LinkedIn (https://www.linkedin.com/in/lkneale), and may be reached at Lkneale at uw.edu
