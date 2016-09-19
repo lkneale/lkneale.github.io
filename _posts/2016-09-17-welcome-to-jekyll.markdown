@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "About Me"
 date:   2016-09-17 19:08:43 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I am a fourth-year PhD candidate in the Division of Biomedical and Health Informatics in the School of Medicine at the University of Washington ([UW BHI](https://www.bhi.washington.edu/)) in Seattle, WA.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I study how technology can help older adults coordinate care and share health information with their care team. My dissertation is exploring the usability, feasibility, and preliminary effectiveness of personal health records with older adults transitioning from the hospital to home health. I plan to graduate in the summer of 2017.
 
-Jekyll also offers powerful support for code snippets:
+ Prior to joining the University of Washington in 2013, I was a healthcare consultant with an expertise in clinical quality improvement, systems engineering, and publicly reported quality measures.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I can be found on [ResearchGate](https://www.researchgate.net/profile/Laura_Kneale) or [LinkedIn](https://www.linkedin.com/in/lkneale), and may be reached at Lkneale at uw.edu
