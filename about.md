@@ -10,4 +10,4 @@ I study how technology can help older adults coordinate care and share health in
 
  Prior to joining the University of Washington in 2013, I was a healthcare consultant with an expertise in clinical quality improvement, systems engineering, and publicly reported quality measures.
 
-I can be found on ResearchGate (https://www.researchgate.net/profile/Laura_Kneale) or LinkedIn (https://www.linkedin.com/in/lkneale), and may be reached at Lkneale at uw.edu
+I can be found on [ResearchGate](https://www.researchgate.net/profile/Laura_Kneale) or [LinkedIn](https://www.linkedin.com/in/lkneale), and may be reached at Lkneale at uw.edu
