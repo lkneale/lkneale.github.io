@@ -5,4 +5,4 @@ permalink: /cv/
 ---
 Curriculum vitae
 
-[Resume](lkneale.github.io/images/Laura Kneale Resume.pdf) (updated September 2016)
+[Resume](https://github.com/lkneale/lkneale.github.io/blob/master/images/Laura%20Kneale%20Resume.pdf) (updated September 2016)
