@@ -3,11 +3,11 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-### Teaching Philosophy 
+#### Teaching Philosophy 
 
 
 
-### University of Washington Tacoma 
+#### University of Washington Tacoma 
 Healthcare Information Systems, Summer 2016
 
 <a href="/images/Tacoma Syllabus.pdf" target="_blank">Syllabus
