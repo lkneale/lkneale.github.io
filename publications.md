@@ -27,6 +27,7 @@ Chaudhuri S, **Kneale L**, Le T, Phelan E, Rosenberg D, Thompson H, Demiris G. O
 #### 2014
 Chaudhuri S, **Kneale L**, Le T, Thompson H, Demiris G. Older Adults’ Attitudes toward Fall Detection Devices. Paper presented at the National Library of Medicine Informatics Training Conference; 17-18 June 2014; Pittsburgh, PA.
 
+
 #### Prior to the University of Washington (Fall 2013)
 Qadir S, **Kneale L**, Whelan C, Eggers L, Steigbigel G, Kissane M, Butler D, Daemicke C, Alcain C, Gillespie A, Beiser D, Knutsen C, Collins J, Pufundt A, Rubinson L, Markul E, Beck, E. Development and Implementation of an Integrated Care Transition Pilot Program. Poster presented at: Healthcare Systems Process Improvement Conference. 21-24 February 2014; Orlando, FL.
 
