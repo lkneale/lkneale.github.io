@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-I enjoy working with healthcare providers, patients, caregivers, and administrators to understand how care transitions can be improved through systems engineering and well-designed information technology. My expertise is evaluating how existing technologies can be optimized to better meet the needs of the healthcare system. For me, this includes understanding the needs and perspectives of the entire care team, evaluating how these needs could be met (through technology and/or systems changes), and developing recommendations. 
+I enjoy working with healthcare providers, patients, caregivers, and administrators to understand how care transitions can be improved through process improvements, and well-designed information technology. My expertise is evaluating how existing technologies can be optimized to better meet the needs of the healthcare system. For me, this includes understanding the needs and perspectives of the entire care team, evaluating how these needs could be met (through technology and/or systems changes), and developing recommendations. Below is some information on my current projects. 
 
 ### Improving Post Acute Care
  
