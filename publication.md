@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Publication
+permalink: /publication/
 ---
 
 My Publications goes here.
