@@ -7,4 +7,4 @@ Please find a copy of my latest Curriculum vitae (CV) and Resume below (updated 
 
 <a href="/images/Laura Kneale Resume.pdf" target="_blank">Resume 
 
-<a href="/images/Laura Kneale Resume.pdf" target="_blank">CV
+<a href="/images/Laura_Kneale CV_September 2016.pdf" target="_blank">CV
