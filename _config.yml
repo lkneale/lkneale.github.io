@@ -16,9 +16,8 @@
 title: Laura Kneale, PhD Candidate
 email: lkneale@uw.edu
 description: > # this means to ignore newlines until "baseurl:"
-I am a 4th year PhD Candidate in Biomedical and Health Informatics
-at the University of Washington in Seattle.
-Google search results) and in your feed.xml site description.
+  I am a 4th year PhD Candidate in Biomedical and Health Informatics
+  at the University of Washington in Seattle.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000" # the base hostname & protocol for your site
