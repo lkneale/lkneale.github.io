@@ -3,6 +3,6 @@ layout: page
 title: CV and Resume
 permalink: /cv/
 ---
-Curriculum vitae
+Please find my latest Curriculum vitae (CV) and Resume below. 
 
-[Resume](https://github.com/lkneale/lkneale.github.io/blob/master/images/Laura%20Kneale%20Resume.pdf) (updated September 2016)
+[Resume}<a href="/images/Laura Kneale Resume.pdf" target="_blank">PDF</a>
