@@ -26,3 +26,16 @@ Chaudhuri S, **Kneale L**, Le T, Phelan E, Rosenberg D, Thompson H, Demiris G. O
 **Kneale L**, Choi Y, Mikles S, Thompson H, Demiris G. Evaluating Publicly Available Personal Health Records for Home Health. Paper presented at the National Library of Medicine Training Conference, 27-28 June 2016; Columbus, OH.
 
 ###2015
+**Kneale L**, Choi Y, Demiris G. Assessing commercially available personal health records using a standard transition from hospital to skilled home health care. Paper presented at the Home Healthcare and Hospice Information Technology Conference; 27 October 2015; Nashville, TN. 
+
+###2014
+Chaudhuri S, **Kneale L**, Le T, Thompson H, Demiris G. Older Adults’ Attitudes toward Fall Detection Devices. Paper presented at the National Library of Medicine Informatics Training Conference; 17-18 June 2014; Pittsburgh, PA.
+
+### Prior to 2013
+Qadir S, **Kneale L**, Whelan C, Eggers L, Steigbigel G, Kissane M, Butler D, Daemicke C, Alcain C, Gillespie A, Beiser D, Knutsen C, Collins J, Pufundt A, Rubinson L, Markul E, Beck, E. Development and Implementation of an Integrated Care Transition Pilot Program. Poster session presented at: Healthcare Systems Process Improvement Conference. 2014 February 21-24; Orlando, FL.
+
+**Kneale, L**. The University of Chicago Medicine’s Readmission Reduction Program. Joint Commission Resources National Pacing Event, Chicago, Illinois, 1 Apr. 2013.
+
+**Kneale, L**. The University of Chicago Medicine’s Readmission Reduction Program.  Joint Commission Resources All National Hospital A.D.E and Readmissions Event, Chicago, Illinois, 4 Mar. 2013.
+
+Carey M, **Kneale L**, Stegner J. Sustained Operational Performance Improvement at the University of Chicago Medical Center. Presented at the University HealthSystems Consortium Annual Conference 2011, 21-23 2011 September; Chicago, IL.
