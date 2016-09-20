@@ -15,7 +15,7 @@ permalink: /publications/
 
 **Kneale L**, Choi Y, Demiris G. Assessing commercially available personal health records for home health: recommendations for design. Applied Clinical Informatics. 2016;7(2):355-367. doi: 10.4338/ACI-2015-11-RA-0156. [PubMed link](http://www.ncbi.nlm.nih.gov/pubmed/27437046)
 
-Backojna U, **Kneale L**, Demiris G, Thompson H. Senior tech: the next generation- health informatics solutions for older adults living in the community. Journal of Gerontological Nursing. 2016 Jan 16. 42(1): 2-3. [PubMed link](http://www.ncbi.nlm.nih.gov/pubmed/26866395)
+Backojna U, **Kneale L**, Demiris G, Thompson H. Senior tech: the next generation- health informatics solutions for older adults living in the community. Journal of Gerontological Nursing. 2016 Jan 16. 42(1): 2-3. [[PubMed link](http://www.ncbi.nlm.nih.gov/pubmed/26866395)]
 
 #### 2015
 **Kneale L**, Choi Y, Demiris G. Assessing commercially available personal health records using a standard transition from hospital to skilled home health care. Paper presented at the Home Healthcare and Hospice Information Technology Conference; 27 October 2015; Nashville, TN.
