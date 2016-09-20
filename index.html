@@ -1,23 +1,32 @@
 ---
 layout: default
 ---
-
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="col-md-12">
+  <h1>Laura Kneale</h1>
+</div>
+<div class="col-md-6 col-md-push-6">
+  <img id="headshot" class="img-responsive" src="/images/headshot.png" />
+</div>
+<div class="col-md-6 col-md-pull-6">
+  <p>
+    I am a fourth-year PhD candidate in the Division of Biomedical and Health Informatics in the
+    School of Medicine at the University of Washington (<a href="https://www.bhi.washington.edu/">UW BHI</a>)
+    in Seattle, WA.
+  </p>
+  <p>
+    I study how technology can help older adults coordinate care and share health information with
+    their care team. My dissertation is exploring the usability, feasibility, and preliminary
+    effectiveness of personal health records with older adults transitioning from the hospital to
+    home health. I plan to graduate in the summer of 2017.
+  </p>
+  <p>
+    Prior to joining the University of Washington in 2013, I was a healthcare consultant with an
+    expertise in clinical quality improvement, systems engineering, and publicly reported quality
+    measures.
+  </p>
+  <p>
+    I can be found on <a href="https://www.researchgate.net/profile/Laura_Kneale">ResearchGate</a>
+    or <a href="https://www.linkedin.com/in/lkneale">LinkedIn</a>, and may be reached
+    at Lkneale at uw.edu
+  </p>
 </div>
