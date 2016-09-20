@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Journal Publications
 permalink: /publications/
 ---
-### Journal Publications
 
 #### 2016
 
