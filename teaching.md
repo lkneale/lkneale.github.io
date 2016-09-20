@@ -10,8 +10,10 @@ permalink: /teaching/
 ### University of Washington Tacoma 
 Healthcare Information Systems, Summer 2016
 
-[Syllabus]()
+<a href="/images/Laura_Kneale CV_September 2016.pdf" target="_blank">Syllabus
 
-[Evaluations]()
+<a href="/images/Laura_Kneale CV_September 2016.pdf" target="_blank">Student Evaluations (official)
 
-[Excerpt of Student Comments]()
+<a href="/images/Laura_Kneale CV_September 2016.pdf" target="_blank">Excerpts from Student Comments
+
+<a href="/images/Laura_Kneale CV_September 2016.pdf" target="_blank">Sample In-Class Activity
