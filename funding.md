@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Funding
+title: Funding and Awards
 permalink: /funding/
 ---
 
