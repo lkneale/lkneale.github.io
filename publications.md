@@ -29,6 +29,7 @@ Chaudhuri S, **Kneale L**, Le T, Thompson H, Demiris G. Older Adults’ Attitude
 
 ---
 #### Prior to the University of Washington (Fall 2013)
+
 Qadir S, **Kneale L**, Whelan C, Eggers L, Steigbigel G, Kissane M, Butler D, Daemicke C, Alcain C, Gillespie A, Beiser D, Knutsen C, Collins J, Pufundt A, Rubinson L, Markul E, Beck, E. Development and Implementation of an Integrated Care Transition Pilot Program. Poster presented at: Healthcare Systems Process Improvement Conference. 21-24 February 2014; Orlando, FL.
 
 **Kneale, L**. The University of Chicago Medicine’s Readmission Reduction Program. Joint Commission Resources National Pacing Event, Chicago, Illinois, 1 April 2013.
