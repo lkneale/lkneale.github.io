@@ -12,7 +12,7 @@ During the summer of 2016, I taught a MBA class called Healthcare Information Sy
 
 <a href="/images/class comments.pdf" target="_blank">Excerpts from Final Student Reflections
 
-#### Sample Class Materials
+##### Sample Class Materials
 Students worked in groups to identify the requirements for the new position, and then were given the list of candidates to choose someone to hire. I facilitated a discussion around why specific requirements were chosen, and how the candidates did or did not meet these requirements. This was the conclusion of a course-long case study, and we used this final project to discuss the changing role of health information system leadership in hospitals and healthcare. 
 
 
