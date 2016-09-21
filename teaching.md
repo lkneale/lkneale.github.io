@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 #### University of Washington Tacoma 
-During the summer of 2016, I taught a MBA class called Healthcare Information Systems for the University of Washington Tacoma. In this course we covered the history of healthcare information systems and relevant policy, current uses of information technology, and the students explored how health information technology could help solve a problem in a healthcare domain. Although my class was small (8 students), there was significant diversity in professional experience, age, and student goals. I was responsible for all course material, course content, grading, and student feedback. Below is a sample of some of the course material. 
+During the summer of 2016, I taught a MBA class called Healthcare Information Systems for the University of Washington Tacoma. In this course we covered the history of healthcare information systems and relevant policy, current uses of information technology, and the students explored how health information technology could help solve a problem in a healthcare domain. Although my class was small (7 students), there was significant diversity in professional experience, age, and student goals. I was responsible for all course material, course content, grading, and student feedback. Below is a sample of some of the course material. 
 
 <a href="/images/Tacoma Syllabus.pdf" target="_blank">Syllabus
 
