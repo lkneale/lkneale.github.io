@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 ### University of Washington Tacoma 
-During the summer of 2016, I taught a MBA class called Healthcare Information Systems for the University of Washington Tacoma. In this course we covered the history of healthcare information systems and relevant policy, current uses of information technology, and the students explored how health information technology could help solve a problem in a healthcare domain. Although my class was small (7 students), there was significant diversity in professional experience, age, and student goals. this course was 4 credits, and I provided 2,000 hours of instruction in the 4-week summer quarter. I was responsible for all course material, course content, grading, and student feedback. Below is a sample of some of the course material. 
+During the summer of 2016, I taught a MBA course for the University of Washington Tacoma titled "Healthcare Information Systems". In this course we covered the history of healthcare information systems and relevant policy, current uses of information technology, and the students explored how health information technology could help solve a problem in a healthcare domain. Although my class was small (7 students), there was diversity in professional experience, age, and student goals. This course was 4 credits, and I provided 2,000 hours of instruction in the 4-week summer quarter. I was responsible for all course material, course content, grading, and student feedback. Below is a sample of some of the course material. 
 
 <a href="/images/Tacoma Syllabus.pdf" target="_blank">Syllabus
 
@@ -13,8 +13,11 @@ During the summer of 2016, I taught a MBA class called Healthcare Information Sy
 <a href="/images/class comments.pdf" target="_blank">Excerpts from Final Student Reflections
 
 #### Sample Class Materials
-Students worked in groups to identify the requirements for the new position, and then were given the list of candidates to choose someone to hire. I facilitated a discussion around why specific requirements were chosen, and how the candidates did or did not meet these requirements. This was the conclusion of a course-long case study, and we used this final project to discuss the changing role of health information system leadership in hospitals and healthcare. 
+This class activity was used in the final lecture of the course to conclude a course-long case study. I used this final project to discuss the changing roles of health information system leadership in hospitals and healthcare in response to the changing landscape of healthcare and health information systems. 
 
+There were two parts of this activity. First, students formed groups and were given the first page of the PDF below. Students were asked to help Emma develop a list of requirements for the open position based on course material, the case study, and supplemental readings. After requirements were developed, I facilitated a short class discussion on why specific requirements were chosen. 
+
+After the discussion, students got back into their groups and were given the list of potential candidates (second page of the PDF). Students discussed the merits of each candidate, and the ways in which he or she meet their stated requirements. After candidates were chosen, I facilitated a discussion on why specific candidates were chosen, how future candidates could be more prepared to meet the health system needs, and how workforce development could prepare future leaders to take on the challenge roles in healthcare information system leadership. 
 
 <a href="/images/Pick a CIO.pdf" target="_blank">Hire a CIO
 
