@@ -10,9 +10,10 @@ During the summer of 2016, I taught a MBA course for the University of Washingto
 
 <b> <a href="/images/Course Evaluation.pdf" target="_blank">Student Evaluations (official)
 
-<b> <a href="/images/class comments.pdf" target="_blank">Excerpts from Final Student Reflections </b>
+<b> <a href="/images/class comments.pdf" target="_blank">Excerpts from Final Student Reflections
 
-</b> #### Sample Class Materials
+</b> 
+#### Sample Class Materials
 This class activity was used in the final lecture of the course to conclude a course-long case study. I used this final project to discuss the changing roles of health information system leadership iin response to the changing landscape of US healthcare and information systems. 
 
 There were two parts of this activity. First, students formed groups and were given the first page of the PDF below. Students were asked to help Emma develop a list of requirements for the open position based on course material, the case study, and supplemental readings. After requirements were developed, I facilitated a short class discussion on why specific requirements were chosen. 
