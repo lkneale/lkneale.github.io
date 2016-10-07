@@ -12,6 +12,7 @@ During the summer of 2016, I taught a MBA course for the University of Washingto
 
 ##### <a href="/images/class comments.pdf" target="_blank">Excerpts from Final Student Reflections)
  
+ 
 #### Sample Class Materials
 This class activity was used in the final lecture of the course to conclude a course-long case study. I used this final project to discuss the changing roles of health information system leadership iin response to the changing landscape of US healthcare and information systems. 
 
