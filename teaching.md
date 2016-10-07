@@ -19,6 +19,6 @@ There were two parts of this activity. First, students formed groups and were gi
 
 After the discussion, students got back into their groups and were given the list of potential candidates (second page of the PDF). Students discussed the merits of each candidate, and the ways in which he or she meet their stated requirements. After candidates were chosen, I facilitated a final discussion on why specific candidates were chosen, how future candidates could be more prepared to meet the health system needs, and how workforce development could prepare future leaders to take on the challenging roles in healthcare information systems leadership. 
 
-### <a href="/images/Pick a CIO.pdf" target="_blank">Hire a CIO
+###### <a href="/images/Pick a CIO.pdf" target="_blank">Hire a CIO
 
 
