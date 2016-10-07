@@ -9,8 +9,8 @@ permalink: /funding/
 * 2016	Agency for Healthcare Research and Quality (AHRQ) Grants for Health Services Research Dissertation Program (R36), Role: PI, scored not funded
 
 ### Awards
+* National Library of Medicine (NLM) Pre-doctoral Trainee in Biomedical and Health Informatics, 2013-2017
 * The Graduate School’s Fund for Excellence and Innovation (GSFEI) Graduate Student Travel Award, 2016
-* National Library of Medicine (NLM) Pre-doctoral Trainee in Biomedical and Health Informatics, 2013-2016
 * Healthcare Information and Management Systems Society (HIMSS) Foundation Doctorate Scholarship, 2015
 
 ### Honors
