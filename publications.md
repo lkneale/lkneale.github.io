@@ -13,7 +13,8 @@ permalink: /publications/
 
 **Kneale L**, Choi Y, Mikles S, Thompson H, Demiris G. Evaluating Publicly Available Personal Health Records for Home Health. Paper presented at the National Library of Medicine Training Conference, 27-28 June 2016; Columbus, OH.
 
-**Kneale L**, Choi Y, Demiris G. Assessing commercially available personal health records for home health: recommendations for design. Applied Clinical Informatics. 2016;7(2):355-367. doi: 10.4338/ACI-2015-11-RA-0156. ### [[PubMed link](http://www.ncbi.nlm.nih.gov/pubmed/27437046)]
+**Kneale L**, Choi Y, Demiris G. Assessing commercially available personal health records for home health: recommendations for design. Applied Clinical Informatics. 2016;7(2):355-367. doi: 10.4338/ACI-2015-11-RA-0156. 
+### [[PubMed link](http://www.ncbi.nlm.nih.gov/pubmed/27437046)]
 
 Backojna U, **Kneale L**, Demiris G, Thompson H. Senior tech: the next generation- health informatics solutions for older adults living in the community. Journal of Gerontological Nursing. 2016 Jan 16. 42(1): 2-3. [[PubMed link](http://www.ncbi.nlm.nih.gov/pubmed/26866395)]
 
