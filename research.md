@@ -3,20 +3,24 @@ layout: page
 title: Research
 permalink: /research/
 ---
-I enjoy working with healthcare providers, patients, caregivers, and administrators to understand how care transitions can be improved through process improvements, and well-designed information technology. My expertise is evaluating how existing technologies can be optimized to better meet the needs of the healthcare system. For me, this includes understanding the needs and perspectives of the entire care team, evaluating how these needs could be met (through technology and/or systems changes), and developing recommendations. Below is some information on my current projects. 
-
-#### Improving Post Acute Care
- 
-* Improved Hospital to Home Health Care Transitions through Technology-Mediated Health Information Exchange
-* Propensity of Older Adults to Share Health Information during Care Transitions
-* Development of Home Health Care Team Personas
-* Perceptions of Older Adults on the Training and Effectiveness of Home Care Workers
-* Evaluation of Mobile for Home Physical Therapy Routines with Older Adults at Risk for Falls 
-
-#### Personal Health Records
-
-* Market Scan
-* Heuristic Evaluation for Usability
-* Reccomendations for Design
-
-#### 30-day Readmissions Reduction
+ </p>
+  <div class="row">
+    <div class="col-sm-4 col-sm-offset-1">
+     <a id="cv" class="cv-link btn btn-block btn-primary" href="/images/Laura_Kneale CV_for website_1.2017.pdf" role="button" target="_blank">Improving Care Transitions for Older Adults</a>
+    </div>
+    <div class="col-sm-offset-1 col-sm-4">
+     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Resume_Website_1.7.16.pdf" role="button" target="_blank">Promoting Effective Self-Care Routines</a>
+    </div>
+    <div class="col-sm-offset-1 col-sm-4">
+     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Resume_Website_1.7.16.pdf" role="button" target="_blank">Communicating with older adult patients in their homes</a>
+    </div>
+    <div class="col-sm-offset-1 col-sm-4">
+     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Resume_Website_1.7.16.pdf" role="button" target="_blank">Understanding older adult technology preferences</a>
+    </div>
+    <div class="col-sm-offset-1 col-sm-4">
+     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Resume_Website_1.7.16.pdf" role="button" target="_blank">Assessing the usability of technology designed for older adults</a>
+    </div>
+  </div>
+  <p>
+  </p>
+</div>
