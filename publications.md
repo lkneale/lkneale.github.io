@@ -10,7 +10,7 @@ permalink: /publications/
 **Kneale L**, Demiris G. Lack of diversity in personal health record evaluations with older adult participants: a systematic review of literature. Journal of Innovation in Health Informatics. In Press.  
 
 #### 2016
-**Kneale L**, Thompson H, Demiris G. Incorporating Televisions into Older Adults’ Health Routines: A Case Study. Poster presented at: American Medical Informatics Association. 2016 November 15; Chicago, IL.
+**Kneale L**, Thompson H, Demiris G. Incorporating Televisions into Older Adults’ Health Routines: A Case Study. Poster presented at: American Medical Informatics Association. 15 November 2016; Chicago, IL.
 
 **Kneale L**, Ordway A, Johnson K, Demiris G. Understanding Information Exchange between Home Care Clients and Aides: Opportunities for Informatics. Paper presented at the Home Healthcare and Hospice Information Technology Conference, 11 November 2016; Chicago, IL.
 
