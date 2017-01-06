@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+#### 2017
+**Kneale L**, Chauduri S, Rosenberg D, Zampino L, Weiler A, Demiris G, Phelan E. Smart-Phone Application Evaluation for Older Adults Prescribed Physical Therapy for Fall Prevention. Poster session will be presented at: 21st IAGG World Congress of Gerontology and Geriatrics. 24 July 2017; San Francisco, CA. 
+
+**Kneale L**, Demiris G. Lack of diversity in personal health record evaluations with older adult participants: a systematic review of literature. Journal of Innovation in Health Informatics. In Press.  
+
 #### 2016
 **Kneale L**, Thompson H, Demiris G. Incorporating Televisions into Older Adults’ Health Routines: A Case Study. Poster presented at: American Medical Informatics Association. 2016 November 15; Chicago, IL.
 
