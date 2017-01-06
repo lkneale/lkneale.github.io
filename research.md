@@ -7,7 +7,7 @@ I enjoy working with healthcare providers, patients, caregivers, and administrat
  
   <div class="row">
     <div class="col-sm-4 col-sm-offset-1">
-     <a id="cv" class="cv-link btn btn-block btn-primary" href="/images/Laura_Kneale CV_for website_1.2017.pdf" role="button" target="_blank">Improving Care Transitions for Older Adults</a>
+     <a id="cv" class="cv-link btn btn-block btn-primary" href="/images/Improving Care Transitions.pdf" role="button" target="_blank">Improving Care Transitions for Older Adults</a>
     </div>
     <div class="col-sm-offset-1 col-sm-4">
      <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Promoting Effective Self-Care Routines.pdf" role="button" target="_blank">Promoting Effective Self-Care Routines</a>
