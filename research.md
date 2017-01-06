@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-I enjoy working with healthcare providers, patients, caregivers, and administrators to understand how older adult care can be improved through well-designed technology and process improvements. For me, this includes understanding the needs and perspectives of the entire care team including the patient and caregivers, evaluating how these needs could be met (through technology and/or systems changes), developing recommendations for improvement, and implementing and evaluating these recommendations.
+I enjoy working with healthcare providers, patients, caregivers, and administrators to understand how older adult care can be improved through well-designed technology and process improvements. For me, this includes understanding the needs and perspectives of the entire care team including the patient and caregivers, evaluating how these needs could be met (through technology and/or systems changes), developing recommendations for improvement, and implementing and evaluating these recommendations. Please click on the buttons below to learn more about my work.
  
   <div class="row">
     <div class="col-sm-4 col-sm-offset-1">
