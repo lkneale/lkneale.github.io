@@ -3,7 +3,8 @@ layout: page
 title: Research
 permalink: /research/
 ---
- </p>
+I enjoy working with healthcare providers, patients, caregivers, and administrators to understand how older adult care can be improved through well-designed technology and process improvements. For me, this includes understanding the needs and perspectives of the entire care team including the patient and caregivers, evaluating how these needs could be met (through technology and/or systems changes), developing recommendations for improvement, and implementing and evaluating these recommendations.
+ 
   <div class="row">
     <div class="col-sm-4 col-sm-offset-1">
      <a id="cv" class="cv-link btn btn-block btn-primary" href="/images/Laura_Kneale CV_for website_1.2017.pdf" role="button" target="_blank">Improving Care Transitions for Older Adults</a>
