@@ -16,7 +16,7 @@ I enjoy working with healthcare providers, patients, caregivers, and administrat
      <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Resume_Website_1.7.16.pdf" role="button" target="_blank">Communicating with older adult patients in their homes</a>
     </div>
     <div class="col-sm-offset-1 col-sm-4">
-     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Resume_Website_1.7.16.pdf" role="button" target="_blank">Understanding older adult technology preferences</a>
+     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Undestanding OA Preferences.pdf" role="button" target="_blank">Understanding older adult technology preferences</a>
     </div>
     <div class="col-sm-offset-1 col-sm-4">
      <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Resume_Website_1.7.16.pdf" role="button" target="_blank">Assessing the usability of technology designed for older adults</a>
