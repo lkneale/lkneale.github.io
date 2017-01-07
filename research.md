@@ -13,13 +13,13 @@ I enjoy working with healthcare providers, patients, caregivers, and administrat
      <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Promoting Effective Self-Care Routines.pdf" role="button" target="_blank">Promoting Effective Self-Care Routines</a>
     </div>
     <div class="col-sm-offset-1 col-sm-4">
-     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Communicating.pdf" role="button" target="_blank">Communicating with older adult patients in their homes</a>
+     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Communicating.pdf" role="button" target="_blank">Communicating with Older Adult Patients in their Homes</a>
     </div>
     <div class="col-sm-offset-1 col-sm-4">
-     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Undestanding OA Preferences.pdf" role="button" target="_blank">Understanding older adult technology preferences</a>
+     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Undestanding OA Preferences.pdf" role="button" target="_blank">Understanding Older Adult Technology Preferences</a>
     </div>
     <div class="col-sm-offset-1 col-sm-4">
-     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Usability.pdf" role="button" target="_blank">Assessing the usability of technology designed for older adults</a>
+     <a id="resume" class="cv-link btn btn-block btn-primary" href="/images/Usability.pdf" role="button" target="_blank">Assessing the Usability of Technology Designed for Older Adults</a>
     </div>
   </div>
   <p>
