@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Research
+title: Experience
 permalink: /research/
 ---
-I enjoy working with healthcare providers, patients, caregivers, and administrators to understand how older adult care can be improved through well-designed technology and process improvements. For me, this includes understanding the needs and perspectives of the entire care team including the patient and caregivers, evaluating how these needs could be met (through technology and/or systems changes), developing recommendations for improvement, and implementing and evaluating these recommendations. Please click the links below to learn more about my work.
+I work to improve healthcare services by collaborating with patients, families, and clinicans to document, analyze, and improve system issues. I especially enjoy working to understand how older adult care can be improved through well-designed technology and clincial process improvements.
+</p>
+Academic Experience:
+I completed my Ph.D. in Biomedical and Health Informatics at the University of Washington in 2017. My research expereince included the domains of human computer interaction (HCI), gerontology, and informatics. I also have a degree in Industrial and Operations Engineering from the University of Michigan (2006) and Masters of Science in Information Systems Technology from the George Washington Univeristy (2008).
+</p>
+Click below to find out more about my experiences.
 
   <ul class="">
     <li>
