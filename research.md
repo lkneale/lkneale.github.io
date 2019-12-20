@@ -4,7 +4,7 @@ title: Projects/Portfolio
 permalink: /research/
 ---
 <p>
-I enjoy working with 
+I enjoy working with clinicans, administrators, patients, and families to improve the care experience. I also enjoy collecting and analyzing clinical data from healthcare claims databases, electornic medical records, and publically reported databases to understand challenges and areas of improvement with current care delivery.
   </p>
   
 
