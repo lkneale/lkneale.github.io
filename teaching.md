@@ -8,7 +8,7 @@ School of Nursing & Health Studies (January 2019 to present)
 
 Courses taught: Health Policy and the Organization of Healthcare (BNURS 420), Translational Research II (BNURS 522), Critical Reading and Information Literacy in Nursing (BNURS 360).
 
-##  Univeristy of Washington Seattle
+###  Univeristy of Washington Seattle
 School of Nursing, Masters of Science in Clinical Informatics and Patient-Centered Technologies 
 
 Courses taught: Telehealth Systems and Applications (summer 2018), Project Management and Systems Analysis for Health Informatics (fall 2017)
