@@ -3,8 +3,18 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+### University of Washington Bothell
+School of Nursing & Health Studies (January 2019 to present)
+
+Courses taught: Health Policy and the Organization of Healthcare (BNURS 420), Translational Research II (BNURS 522), Critical Reading and Information Literacy in Nursing (BNURS 360).
+
+##  Univeristy of Washington Seattle
+School of Nursing, Masters of Science in Clinical Informatics and Patient-Centered Technologies 
+
+Courses taught: Telehealth Systems and Applications (summer 2018), Project Management and Systems Analysis for Health Informatics (fall 2017)
+
 ### University of Washington Tacoma 
-Milgard School of Business, T BUS 590 (summer b 2016)
+Milgard School of Business, T BUS 590 (summer 2016, 2018)
 
 This course covered the history of healthcare information systems and relevant policy, current uses of information technology, and the students explored how health information technology could help solve a problem in a healthcare domain. I provided 2,000 hours of instruction in the 4-week summer b quarter. I was responsible for all course material, course content, grading, and student feedback.
 
