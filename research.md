@@ -19,9 +19,7 @@ I enjoy working with clinicans, administrators, patients, and families to improv
   <p>
   Methods/Skills: Interviews (individual and group), instrument development and administration, R, RedCap
   </p>
-  <p>
-  Impact/Conclusions: Many issues with care cooridnation among homebound older adults were uncovered during these studies. Using technology to bridge the gap between patients, caregivers, home health nursing staff, primary care providers, and specialty care physicians was a valuable exercise for many patients and families. The poor design of current PHRs and user experience issues prevented many older adults and their caregivers from using these tools to their fullest extent. 
-  </p>
+
   <b> Example Project 2: Managing the University of Chicago Medicine 30-Day Readmission Reduction Program</b>
 <p>
   I led several projects to reduce the 30-day readmission rate on key patient populations at the University of Chicago Medicine. One project specifically looked at the care transition from UCM to skilled nursing facilities. Our team enacted several procedures to improve care coordination and handoff between the facilities. These procedures included sign off from the geriatric medicine team before discharge, ensuring continuity of pain management plans and medication availability prior to transfer, and clincial process improvements to reduce night and weekend transfers. 
@@ -39,6 +37,7 @@ I enjoy working with clinicans, administrators, patients, and families to improv
   2. Kneale, L. The Unviersty of Chicago Medicine's Readmission Reduction Program. Joint Commission Resources All National Hospital A.D.E. and Readmissions Event, Chicago, Illinois, 4 March 2013. 
 </p>
 ### Promoting Effective Self Care Routines ###
+<b> Overview </b>
 <p>
   More older adutls are living independently and the burden of performing self care routines often fall on the older adults themselves or their caregivers. Technology can play an important role in assisting older adults with completing these activities
 </p>
