@@ -71,6 +71,14 @@ Methods/Skills: Semi-structured interviews, patient/self-care workflow analysis,
   <p>
   4. Kneale L., Mikles S, Choi YK., Thompson, H., Demiris, G. Using Scenarios and Personas of Older Adults and their Care Team to Enhance the Effectiveness of a Heuristic Evaluation. Journal of Biomedical Informatics. 2017 September; 73:43-50. </p>
   
+  ### Discovering Older Adult Technology Preferences for Healthcare ###
+  <p>
+  <b>Overview</b>
+  </p> <p>
+  Research suggests that older adults adopt technology for different reasons that other adult populations. Although more older adults are using technology, little is understood about how this population wants to use technology for healthcare activities. Understanding older adult preferences can help ensure that products designed for older adult users meet the expectations and may be adopted by this population. </p>
+  <b> Example Project #1: Fall Detection Devices </b>
+  <p>Older adults were asked about their opinions and preferences of fall dection devices in a series of focus groups. I participated in the analysis of these transcripts, and the synthesis of the results. </p>
+
 
   <ul class="">
     <li>
