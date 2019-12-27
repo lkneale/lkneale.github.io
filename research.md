@@ -37,7 +37,9 @@ I enjoy working with clinicans, administrators, patients, and families to improv
   2. Kneale, L. The Unviersty of Chicago Medicine's Readmission Reduction Program. Joint Commission Resources All National Hospital A.D.E. and Readmissions Event, Chicago, Illinois, 4 March 2013. 
 </p>
 ### Promoting Effective Self Care Routines ###
+<p>
 <b> Overview </b>
+</p>
 <p>
   More older adutls are living independently and the burden of performing self care routines often fall on the older adults themselves or their caregivers. Technology can play an important role in assisting older adults with completing these activities
 </p>
