@@ -78,24 +78,26 @@ Methods/Skills: Semi-structured interviews, patient/self-care workflow analysis,
   Research suggests that older adults adopt technology for different reasons that other adult populations. Although more older adults are using technology, little is understood about how this population wants to use technology for healthcare activities. Understanding older adult preferences can help ensure that products designed for older adult users meet the expectations and may be adopted by this population. </p>
   <b> Example Project #1: Fall Detection Devices </b>
   <p>Older adults were asked about their opinions and preferences of fall dection devices in a series of focus groups. I participated in the analysis of these transcripts, and the synthesis of the results. </p>
-
-
-  <ul class="">
-    <li>
-     <a class="" href="/images/Improving Care Transitions.pdf" role="button" target="_blank">Improving Care Transitions for Older Adults</a>
-    </li>
-    <li>
-     <a class="" href="/images/Promoting Effective Self-Care Routines.pdf" role="button" target="_blank">Promoting Effective Self-Care Routines</a>
-    </li>
-    <li>
-     <a class="" href="/images/Communicating.pdf" role="button" target="_blank">Communicating with Older Adult Patients in their Homes</a>
-    </li>
-    <li>
-     <a class="" href="/images/Undestanding OA Preferences.pdf" role="button" target="_blank">Understanding Older Adult Technology Preferences</a>
-    </li>
-    <li>
-     <a class="" href="/images/Usability.pdf" role="button" target="_blank">Assessing the Usability of Technology Designed for Older Adults</a>
-    </li>
-  </ul>
   <p>
+  Methods/Skills: Focus groups, qualitative analysis
   </p>
+<b>Example Project 2: Robotic Technology Applications for Healthcare </b>
+<p>
+Adults of all ages were asked to complete a paper survey that included the Negative Attitudes Toward Robots Scale (NARS). Responses were stratified by age group, and a comparison of perceptions between younger and older adults was conducted. 
+</p>
+<p>
+Methods/skills: Survey recruitment and administration, quantitaive analysis
+  </p>
+ Related publications: 
+    </P>
+    <p>
+  1. Backonja U., Hall AK., Painter I., Kneale L., Lazar A., Cakmak M., Thompson H., Demiris G. Comfort and attitudes towards robots among young, middle-aged, and older adults: a cross-sectional study. Journal of Nursing Scholarship. 2018 September 19.
+  </p>
+  <p>
+  2. Kneale, L., Choi, Y., Mikles, S., Thompson, H., Demiris, G. Evaluating Publically Available Personal Health Records for Home Health. Paper presented at the National Library of Medicine Training Conference. 27-28 June 2016; Columbus, Oh. 
+</p>
+<p>
+  3. Kneale, L., Choi, Y., Demiris, G. Assessing commercially available personal health records for home health: recommendations for design. Applied Clincial Informatics. 2016 May 18; 7(2): 355-367.
+  </p>
+  <p>
+  4. Kneale L., Mikles S, Choi YK., Thompson, H., Demiris, G. Using Scenarios and Personas of Older Adults and their Care Team to Enhance the Effectiveness of a Heuristic Evaluation. Journal of Biomedical Informatics. 2017 September; 73:43-50. </p>
