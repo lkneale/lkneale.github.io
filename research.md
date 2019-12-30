@@ -31,7 +31,7 @@ I enjoy working with clinicans, administrators, patients, and families to improv
   </p>
   <p>
     Related publications: 
-    </P>
+    </p>
     <p>
   1. Kneale, L. The Unviersity of Chicago Medicine's Readmission Reduction Program. Joint Commission Reosurces National Pacing Event, Chicago, Illinois, 1 April 2013.
   </p>
