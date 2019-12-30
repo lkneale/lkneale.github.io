@@ -19,7 +19,7 @@ I led several projects to reduce the 30-day readmission rate on key patient popu
 
 **Methods/skills**: Clinical workflow and data analysis, project management, meeting facilitation, and Lean Healthcare techniques
 
-**Related publications**:
+#### Related Publications
 
   1. Kneale, L. The Unviersity of Chicago Medicine's Readmission Reduction Program. Joint Commission Reosurces National Pacing Event, Chicago, Illinois, 1 April 2013.
   2. Kneale, L. The Unviersty of Chicago Medicine's Readmission Reduction Program. Joint Commission Resources All National Hospital A.D.E. and Readmissions Event, Chicago, Illinois, 4 March 2013.
@@ -38,7 +38,7 @@ I have led two projects that examined the usability of personal health records (
 
 **Methods/skills**: Creating personas, designing usability scenarios, heuristic evaluation and expert review.
 
-**Related publications**:
+#### Related Publications
 
   1. Kneale, L., Chauduri, S., Rosenberg, D., Zampino, L., Weiler, A., Demiris, G., Phelan, E. Smart-Phone Application Evaluation for Older Adutls Prescribed Physical Therapy for Fall Prevention. Poster session presented at: 21st IAGG World Congress of Gerontology and Geriatrics. 24 July 2017; San Francisco, CA.
   2. Kneale, L., Choi, Y., Mikles, S., Thompson, H., Demiris, G. Evaluating Publically Available Personal Health Records for Home Health. Paper presented at the National Library of Medicine Training Conference. 27-28 June 2016; Columbus, Oh.
@@ -59,7 +59,7 @@ Adults of all ages were asked to complete a paper survey that included the Negat
 
 **Methods/skills**: Survey recruitment and administration, quantitaive analysis
 
-**Related publications**:
+#### Related Publications
 
   1. Backonja U., Hall AK., Painter I., Kneale L., Lazar A., Cakmak M., Thompson H., Demiris G. Comfort and attitudes towards robots among young, middle-aged, and older adults: a cross-sectional study. Journal of Nursing Scholarship. 2018 September 19.
   2. Kneale, L., Choi, Y., Mikles, S., Thompson, H., Demiris, G. Evaluating Publically Available Personal Health Records for Home Health. Paper presented at the National Library of Medicine Training Conference. 27-28 June 2016; Columbus, Oh.
