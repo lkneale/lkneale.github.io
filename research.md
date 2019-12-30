@@ -8,7 +8,9 @@ I enjoy working with clinicans, administrators, patients, and families to improv
   </p>
   
   ### Improving Care Transitions for Older Adults ###
+  <p>
   <b>Overview</b>
+  </p>
   <p>
   Care transitions are some of the most vulnerable times for older adult patients and their families. This is especially true when older adults are being transferred from the hospital to another level of care, often with new diagnoses and care routines. Over my professional and academic career, I have worked to improve the clincial handoffs and involvement of patient and families in care cooridnation. Below are two examples of recent projects that I have led in this area.
   </p>
