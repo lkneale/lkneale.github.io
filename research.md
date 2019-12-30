@@ -60,7 +60,7 @@ Methods/Skills: Semi-structured interviews, patient/self-care workflow analysis,
   Methods/skills: Creating personas, designing usability scenarios, heuristic evaluation and expert review. </p>
  <p>
     Related publications: 
-    </P>
+    </p>
     <p>
   1. Kneale, L., Chauduri, S., Rosenberg, D., Zampino, L., Weiler, A., Demiris, G., Phelan, E. Smart-Phone Application Evaluation for Older Adutls Prescribed Physical Therapy for Fall Prevention. Poster session presented at: 21st IAGG World Congress of Gerontology and Geriatrics. 24 July 2017; San Francisco, CA. 
   </p>
@@ -72,11 +72,12 @@ Methods/Skills: Semi-structured interviews, patient/self-care workflow analysis,
   </p>
   <p>
   4. Kneale L., Mikles S, Choi YK., Thompson, H., Demiris, G. Using Scenarios and Personas of Older Adults and their Care Team to Enhance the Effectiveness of a Heuristic Evaluation. Journal of Biomedical Informatics. 2017 September; 73:43-50. </p>
-  
+  </p>
   ### Discovering Older Adult Technology Preferences for Healthcare ###
   <p>
   <b>Overview</b>
-  </p> <p>
+  </p> 
+  <p>
   Research suggests that older adults adopt technology for different reasons that other adult populations. Although more older adults are using technology, little is understood about how this population wants to use technology for healthcare activities. Understanding older adult preferences can help ensure that products designed for older adult users meet the expectations and may be adopted by this population. </p>
   <b> Example Project #1: Fall Detection Devices </b>
   <p>Older adults were asked about their opinions and preferences of fall dection devices in a series of focus groups. I participated in the analysis of these transcripts, and the synthesis of the results. </p>
@@ -91,7 +92,7 @@ Adults of all ages were asked to complete a paper survey that included the Negat
 Methods/skills: Survey recruitment and administration, quantitaive analysis
   </p>
  Related publications: 
-    </P>
+    </p>
     <p>
   1. Backonja U., Hall AK., Painter I., Kneale L., Lazar A., Cakmak M., Thompson H., Demiris G. Comfort and attitudes towards robots among young, middle-aged, and older adults: a cross-sectional study. Journal of Nursing Scholarship. 2018 September 19.
   </p>
